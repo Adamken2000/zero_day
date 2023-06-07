@@ -1,1 +1,1 @@
-Diving into new * command *
+Diving into new **command**
