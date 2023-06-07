@@ -1,1 +1,1 @@
-# * Setting up git on local machine *
+# *Setting up git on local machine*
